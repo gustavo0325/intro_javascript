@@ -15,3 +15,4 @@ btncambiarcolor.addEventListener('click', () => {
 function cambiarcolorfondo(color) {
     document.body.style.backgroundColor = color;
 }
+
